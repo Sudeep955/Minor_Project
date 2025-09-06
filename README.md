@@ -1,11 +1,28 @@
+# ⚡ IoT-Based Solar Panel Monitoring with ThingsBoard Integration  
+
+This project leverages **ThingsBoard IoT Platform** to enable **real-time monitoring, analysis, and fault detection** in solar panel systems. It is designed for efficient energy tracking, anomaly detection, and enterprise-level integration.  
+
 ---
 
-## ⚡ ThingsBoard Integration  
+## ✨ Features  
+- 📡 **Telemetry Collection**: Captures real-time data from devices (power, voltage, current, temperature, irradiance, battery, panel tilt).  
+- 📊 **Interactive Dashboards**: Visualizes live performance and long-term trends.  
+- 🚨 **Smart Alarms & Rule Chains**: Detects anomalies (e.g., power mismatch, overheating) and triggers alerts automatically.  
+- 🔗 **Infosys WatchTower Integration**: Extends monitoring to enterprise-grade alerting and reporting.  
 
-This project is integrated with **ThingsBoard IoT Platform** for real-time monitoring and visualization:  
-- 📡 Collected telemetry from devices (power, voltage, current, temperature, irradiance, battery, panel tilt).  
-- 📊 Built custom dashboards for live monitoring and trend analysis.  
-- 🚨 Implemented rule chains for **fault detection & alarm notifications** (e.g., power mismatch alerts).  
-- 🔗 Integrated with **Infosys WatchTower** for enterprise-level alerting and reporting.  
+---
+
+## ⚙️ Tools & Technologies  
+- 🐍 Python  
+- 🌐 MQTT / HTTP Telemetry  
+- 📊 ThingsBoard  
+- 🔗 Infosys WatchTower  
+
+---
+
+## 🚀 Outcomes  
+- Improved **real-time visibility** of solar performance.  
+- Automated **fault detection and alarm notifications**.  
+- Enhanced **decision-making** with integrated data insights.  
 
 ---
